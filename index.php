@@ -103,7 +103,4 @@ return $result;
 <div id="footer">
 Users <font color="yellow"> <?php include 'user.php';?> </font></br>
 Created By <a target="_blank" href="https://facebook.com/ImRJunaid">Raja Junaid</a></br></div>
-</div><vedio autoplay loop>
-<source src="https://www.youtube.com/watch?v=xLFqFP4ZdJE" controls>
-<p>If you are reading this, it is because your browser does not support the vedio element.</p>
-</vedio>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFcgOboQZ08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
