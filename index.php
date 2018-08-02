@@ -103,4 +103,4 @@ return $result;
 <div id="footer">
 Users <font color="yellow"> <?php include 'user.php';?> </font></br>
 Created By <a target="_blank" href="https://facebook.com/ImRJunaid">Raja Junaid</a></br></div>
-<iframe width="360" height="215" src="https://www.youtube.com/embed/JFcgOboQZ08" frameborder="3" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="260" height="260" src="https://www.youtube.com/embed/JFcgOboQZ08" frameborder="6" allow="autoplay; encrypted-media" allowfullscreen></iframe>
